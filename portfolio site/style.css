@@ -1,0 +1,77 @@
+*{
+  background-color: #f6e1e7;
+  color: #08229d;
+}
+
+.body {
+  margin-left: 80px;
+}
+
+.name {
+    font-family: 'Rakkas', cursive;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 50px; 
+    word-spacing: 10px;
+}
+
+.nav {
+  font-family: 'Rakkas', cursive;
+  font-size: 20px;
+  margin-left: 80px;
+  word-spacing: 30px;
+  margin-bottom: 40px;
+}
+
+.about {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-right: 25%;
+  line-height: 1.6;
+}
+
+/* unvisited link */
+a:link {
+  color:#08229d;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #08229d;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+img {
+  width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  transition: transform .2s ease-in-out;
+}
+
+img:hover {
+  /* opacity: .5; */
+  transform: scale(1.1);
+}
+
+p {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.6;
+  margin-left: 400px;
+  margin-right: 400px;
+  
+}
