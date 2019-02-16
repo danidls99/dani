@@ -55,7 +55,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
   transition: transform .2s ease-in-out;
@@ -73,5 +72,11 @@ p {
   line-height: 1.6;
   margin-left: 400px;
   margin-right: 400px;
+  padding: 20px;
   
+}
+
+.bellbottoms {
+  display: inline-block;
+  margin-left: auto;
 }
