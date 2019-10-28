@@ -60,26 +60,26 @@
   @media only screen and (max-width: 600px) {
     .about {
     font-size: 15px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
     line-height: 1.6;
   }
 
   .name {
       font-size: 25px;
-      margin-left: 50px;
+      margin-left: 25px;
       margin-top: 50px; 
   }
 
   .nav {
     font-size: 18px;
-    margin-left: 50px;
+    margin-left: 25px;
     word-spacing: 30px;
     margin-bottom: 50px;
   }
 
   .credits{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
   }
 }
